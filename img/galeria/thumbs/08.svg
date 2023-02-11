@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit Versión de evaluación) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="50mm" height="45mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5000 4500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID1" horiz-adv-x="644" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Gadugi">
+		<font-face-src>
+			<font-face-name name="Gadugi"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="t" horiz-adv-x="338" d="M313.003 4.82907c-18.8334,-10.332 -43.8323,-15.498 -74.6709,-15.498 -87.6645,0 -131.328,48.841 -131.328,146.501l0 295.831 -86.0024 0 0 68.337 86.0024 0 0 121.996 79.9942 26.0096 0 -148.005 126.005 0 0 -68.337 -126.005 0 0 -281.827c0,-33.5003 5.67135,-57.3312 17.1713,-71.6724 11.3315,-14.33 30.1649,-21.495 56.6686,-21.495 20.1586,0 37.4983,5.5029 52.1652,16.6659l0 -68.5055z"/>
+  </font>
+  <font id="FontID0" horiz-adv-x="626" font-variant="normal" style="fill-rule:nonzero" font-style="normal,italic" font-weight="400">
+	<font-face 
+		font-family="Futura Bk BT">
+		<font-face-src>
+			<font-face-name name="Futura Bk BT Book Italic"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode=" " horiz-adv-x="288" d=""/>
+   <glyph unicode="H" horiz-adv-x="707" d="M38.002 0l93.8287 715.001 86.1703 0 -36.6651 -282.999 365.501 0 37.1625 282.999 86.9993 0 -93.9945 -715.001 -86.9993 0 45.992 353.998 -364.993 0 -46.8418 -353.998 -86.1599 0z"/>
+   <glyph unicode="M" horiz-adv-x="866" d="M-8.00041 0l220.83 743.002 203.171 -588.165 342.836 588.165 34.1676 -743.002 -85.0096 0 -11.1612 495 -305.664 -523.001 -175.336 524.006 -134.836 -496.005 -88.9994 0z"/>
+   <glyph unicode="a" horiz-adv-x="566" d="M246.168 52.9976c43.4945,0 80.3358,18.0009 110.503,54.1686 30.157,36.1677 45.163,81.1648 45.163,134.836 0,45.3288 -11.8348,81.9939 -35.3386,109.995 -23.6593,28.0015 -54.5002,42.0022 -92.4918,42.0022 -49.5052,0 -90.0047,-17.6693 -121.675,-52.8318 -31.4939,-35.1728 -47.3289,-79.8383 -47.3289,-134.339 0,-45.8262 13.1613,-82.9991 39.3285,-111.332 26.1672,-28.3331 60.1689,-42.4996 101.839,-42.4996zm184.994 394l76.833 0 -58.6663 -446.997 -78.3253 0 10.8296 66.6667c-21.5037,-28.8305 -45.5049,-50.1684 -72.0037,-64.0033 -26.4988,-13.8349 -56.6661,-20.6643 -90.4917,-20.6643 -57.3398,0 -103.84,20.8301 -139.676,62.5006 -35.8257,41.6706 -53.6608,95.8288 -53.6608,162.672 0,73.8277 21.8353,134.991 65.3298,183.326 43.6707,48.3341 98.5025,72.5012 164.672,72.5012 39.6601,0 72.9986,-8.82947 99.9948,-26.333 27.0066,-17.6693 48.0025,-44.1681 62.9981,-79.828l12.1664 90.1601z"/>
+   <glyph unicode="c" horiz-adv-x="462" d="M425.836 331.167c-23.1722,23.3276 -46.8314,40.4995 -71.1643,51.4949 -24.1671,10.8399 -50.5,16.3428 -78.8331,16.3428 -52.1685,0 -94.6681,-18.1667 -127.509,-54.6764 -32.8307,-36.4993 -49.329,-83.8282 -49.329,-142.163 0,-46.8314 14.1665,-84.5018 42.6654,-113.166 28.4989,-28.6647 66.335,-42.997 113.166,-42.997 22.8302,0 44.9972,4.49764 66.8325,13.6691 21.8353,9.1611 46.0024,24.3329 72.3354,45.3288l-12.1664 -84.0044c-17.6693,-12.9955 -38.4994,-22.8302 -62.8323,-29.6596 -24.1671,-6.83973 -50.5,-10.3321 -78.8331,-10.3321 -65.6718,0 -118.835,20.4985 -159.335,61.3296 -40.4995,40.8311 -60.8322,94.5023 -60.8322,160.837 0,76.1594 24.1671,138.494 72.5012,186.994 48.3341,48.4999 111.166,72.8328 188.331,72.8328 27.8356,0 54.666,-3.66858 80.17,-11.1612 25.6594,-7.50298 50.9975,-19.172 75.9936,-34.8412l-11.1612 -85.8283z"/>
+   <glyph unicode="d" horiz-adv-x="566" d="M244.168 52.9976c43.1629,0 79.9938,18.0009 110.161,54.1686 30.3332,36.1677 45.5049,81.1648 45.5049,134.836 0,45.3288 -11.8348,81.9939 -35.3386,109.995 -23.6593,28.0015 -54.5002,42.0022 -92.4918,42.0022 -49.5052,0 -89.8389,-17.5035 -121.167,-52.5001 -31.1726,-34.9966 -46.8418,-79.828 -46.8418,-134.67 0,-45.8262 13.0059,-82.9991 38.8414,-111.332 25.8252,-28.3331 59.6611,-42.4996 101.332,-42.4996zm225.162 704.005l77.6724 0 -100.171 -757.003 -77.8279 0 10.8296 66.6667c-21.5037,-28.8305 -45.5049,-50.1684 -72.0037,-64.0033 -26.4988,-13.8349 -56.832,-20.6643 -90.9995,-20.6643 -56.9978,0 -103.332,20.8301 -139.168,62.5006 -35.8257,41.6706 -53.6608,95.8288 -53.6608,162.672 0,73.8277 21.8353,134.991 65.3298,183.326 43.6707,48.3341 98.5025,72.5012 164.506,72.5012 39.8259,0 73.1644,-8.82947 100.161,-26.333 27.0066,-17.6693 48.0025,-44.1681 62.9981,-79.828l52.3343 400.166z"/>
+   <glyph unicode="e" horiz-adv-x="507" d="M456.003 210.995l-357.998 -0.497435 0 -7.8346c0,-47.9921 12.1664,-85.6625 36.6651,-113.332 24.4987,-27.4937 57.8268,-41.3286 100.161,-41.3286 26.4988,0 50.6658,6.33193 72.8328,18.9958 22.167,12.6639 43.6707,32.3333 64.5008,58.9979l53.837 -43.8261c-26.0013,-33.836 -54.666,-59.1741 -86.0045,-76.0039 -31.328,-16.8299 -65.3298,-25.1619 -102.161,-25.1619 -66.6667,0 -119.675,20.1668 -159.003,60.3244 -39.1627,40.1679 -58.8321,94.5023 -58.8321,162.837 0,74.5013 22.8302,136.339 68.3351,185.336 45.6604,48.9974 102.669,73.496 171.335,73.496 62.4903,0 110.99,-18.9958 145.5,-56.9978 34.4992,-38.002 51.8265,-91.497 51.8265,-160.33 0,-9.50308 0,-16.6744 -0.165812,-21.5037 -0.165812,-4.82927 -0.497435,-9.33727 -0.829059,-13.1717zm-74.0038 63.0084c-0.663247,40.3337 -11.669,71.4959 -32.9965,93.3313 -21.3379,21.8353 -51.3394,32.6649 -90.1705,32.6649 -38.4994,0 -71.6617,-11.3374 -99.4974,-34.1676 -27.8356,-22.8302 -46.0024,-53.3292 -54.5002,-91.8286l277.165 0z"/>
+   <glyph unicode="h" horiz-adv-x="541" d="M32.1675 0l99.6632 757.003 77.1646 0 -53.1634 -383.004c22.6644,29.6699 48.0025,52.0027 75.8381,66.8325 27.8253,14.8401 58.3346,22.167 91.6628,22.167 42.6654,0 76.3356,-11.669 101.332,-35.1624 24.8407,-23.5038 37.3387,-55.3397 37.3387,-95.8392 0,-7.16099 -0.331623,-14.8298 -1.00523,-23.3276 -0.663247,-8.49785 -1.66848,-17.3377 -2.82916,-26.333l-37.1729 -282.336 -77.9937 0 35.1624 274.004c0.331623,2.16592 0.497435,5.3267 0.839422,9.1611 2.0001,16.0008 2.99497,26.4988 2.99497,31.8358 0,26.6646 -8.16623,46.9973 -24.4987,60.998 -16.1666,14.0007 -40.0021,21.0063 -71.1643,21.0063 -41.1731,0 -74.1696,-14.5085 -99.3316,-43.6707 -25.0065,-29.1725 -41.3389,-71.4959 -48.8419,-127.167l-30.1674 -226.167 -75.8278 0z"/>
+   <glyph unicode="i" horiz-adv-x="241" d="M98.9999 658.169c0,14.3323 5.33706,26.8304 15.835,37.1625 10.6638,10.498 23.3276,15.6692 38.002,15.6692 14.8298,0 27.4937,-5.17125 37.8258,-15.3376 10.1663,-10.3321 15.3376,-22.8302 15.3376,-37.4942 0,-15.1718 -5.17125,-28.1673 -15.3376,-38.4994 -10.3321,-10.498 -22.996,-15.6692 -37.8258,-15.6692 -14.6743,0 -27.3382,5.33706 -38.002,15.835 -10.498,10.6638 -15.835,23.4934 -15.835,38.3336zm-64.0033 -658.169l59.1741 446.997 77.8279 0 -59.3295 -446.997 -77.6724 0z"/>
+   <glyph unicode="l" horiz-adv-x="241" d="M112.669 0l-78.6673 0 99.829 757.003 78.1699 0 -99.3316 -757.003z"/>
+   <glyph unicode="p" horiz-adv-x="566" d="M287.828 389.999c-43.8261,0 -80.999,-18.0009 -110.99,-53.837 -30.1674,-35.9915 -45.1733,-80.6674 -45.1733,-133.997 0,-44.8313 11.8348,-80.999 35.6702,-108.669 23.6696,-27.6595 54.5002,-41.4944 92.1602,-41.4944 49.8368,0 90.5021,17.3273 122.172,51.9923 31.5042,34.5096 47.3289,78.8435 47.3289,132.836 0,45.5049 -13.1613,82.5017 -39.3285,110.669 -26.1672,28.3331 -60.1689,42.4996 -101.839,42.4996zm-289.828 -608l86.9993 664.998 78.004 0 -10.3321 -70.1591c21.825,29.3279 46.1578,50.9975 72.667,65.164 26.4988,14.0007 56.3242,20.9959 89.6627,20.9959 56.3345,0 102.669,-20.8301 138.836,-62.6665 36.1677,-41.8364 54.1582,-95.663 54.1582,-161.501 0,-72.5012 -21.6592,-133.333 -65.164,-182.331 -43.4945,-48.9974 -97.8289,-73.496 -162.993,-73.496 -40.0021,0 -73.5064,8.66366 -100.171,26.1672 -26.6646,17.3273 -47.1631,43.6603 -61.5058,78.9989l-40.1575 -306.171 -80.0041 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Gadugi";font-variant:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"Futura Bk BT";font-variant:normal;font-style:normal,italic;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil14 {fill:none}
+    .fil16 {fill:#009AB2}
+    .fil15 {fill:#1A3083}
+    .fil9 {fill:url(#id29)}
+    .fil4 {fill:url(#id30)}
+    .fil13 {fill:url(#id31)}
+    .fil1 {fill:url(#id32)}
+    .fil6 {fill:url(#id33)}
+    .fil2 {fill:url(#id34)}
+    .fil5 {fill:url(#id35)}
+    .fil7 {fill:url(#id36)}
+    .fil3 {fill:url(#id37)}
+    .fil0 {fill:url(#id38)}
+    .fil12 {fill:url(#id39)}
+    .fil8 {fill:url(#id40)}
+    .fil11 {fill:url(#id41)}
+    .fil10 {fill:url(#id42)}
+    .fnt1 {font-weight:normal;font-size:890.44px;font-family:'Gadugi'}
+    .fnt3 {font-weight:normal;font-size:890.44px;font-family:'Gadugi'}
+    .fnt5 {font-weight:normal;font-size:890.44px;font-family:'Gadugi'}
+    .fnt0 {font-style:italic;font-weight:normal;font-size:964.95px;font-family:'Futura Bk BT'}
+    .fnt2 {font-style:italic;font-weight:normal;font-size:964.95px;font-family:'Futura Bk BT'}
+    .fnt4 {font-style:italic;font-weight:normal;font-size:964.95px;font-family:'Futura Bk BT'}
+    .fnt6 {font-style:italic;font-weight:normal;font-size:964.95px;font-family:'Futura Bk BT'}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M3122.32 2053.25l460.76 -0.02 78.36 -537.68 385.11 -0.03 -78.36 537.7 445.85 0 80.78 -558.75 363.72 782.81 -585.28 757.79 78.2 -548.97 -446.84 -1.36 -79.53 550.33 -385.05 0 83.06 -548.95 -400.73 0.02 -0.05 -432.89z"/>
+    </clipPath>
+      <mask id="id1">
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2449.23" x2="2925.21" y2="1982.68">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id2)" x="3121.16" y="1499.74" width="1777.91" height="59.13"/>
+      </mask>
+      <mask id="id3">
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2474.85" x2="2925.21" y2="1997.96">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id4)" x="3121.16" y="1597.39" width="1777.91" height="83.15"/>
+      </mask>
+      <mask id="id5">
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2480.56" x2="2925.21" y2="2003.67">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id6)" x="3121.16" y="1717.44" width="1777.91" height="83.14"/>
+      </mask>
+      <mask id="id7">
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2485.87" x2="2925.21" y2="2008.97">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id8)" x="3121.16" y="1829.03" width="1777.91" height="83.16"/>
+      </mask>
+      <mask id="id9">
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2491.61" x2="2925.21" y2="2014.71">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id10)" x="3121.16" y="1949.63" width="1777.91" height="83.15"/>
+      </mask>
+      <mask id="id11">
+  <linearGradient id="id12" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2497.07" x2="2925.21" y2="2020.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id12)" x="3121.16" y="2064.48" width="1777.91" height="83.14"/>
+      </mask>
+      <mask id="id13">
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2502.46" x2="2925.21" y2="2025.57">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id14)" x="3121.16" y="2177.85" width="1777.91" height="83.14"/>
+      </mask>
+      <mask id="id15">
+  <linearGradient id="id16" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2508.12" x2="2925.21" y2="2031.22">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id16)" x="3121.16" y="2296.74" width="1777.91" height="83.15"/>
+      </mask>
+      <mask id="id17">
+  <linearGradient id="id18" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2513.78" x2="2925.21" y2="2036.88">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id18)" x="3121.16" y="2415.65" width="1777.91" height="83.15"/>
+      </mask>
+      <mask id="id19">
+  <linearGradient id="id20" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2519.1" x2="2925.21" y2="2042.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id20)" x="3121.16" y="2527.63" width="1777.91" height="83.15"/>
+      </mask>
+      <mask id="id21">
+  <linearGradient id="id22" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2524.82" x2="2925.21" y2="2047.93">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id22)" x="3121.16" y="2647.91" width="1777.91" height="83.15"/>
+      </mask>
+      <mask id="id23">
+  <linearGradient id="id24" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2530.22" x2="2925.21" y2="2053.32">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id24)" x="3121.16" y="2761.28" width="1777.91" height="83.14"/>
+      </mask>
+      <mask id="id25">
+  <linearGradient id="id26" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2535.8" x2="2925.21" y2="2058.91">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id26)" x="3121.16" y="2878.79" width="1777.91" height="83.15"/>
+      </mask>
+      <mask id="id27">
+  <linearGradient id="id28" gradientUnits="userSpaceOnUse" x1="4129.07" y1="2546.2" x2="2925.21" y2="2074.53">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.54902" style="stop-opacity:0; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+       <rect style="fill:url(#id28)" x="3121.16" y="2992.59" width="1777.91" height="68.89"/>
+      </mask>
+  <linearGradient id="id29" gradientUnits="userSpaceOnUse" x1="3124.88" y1="2569.03" x2="4895.2" y2="2569.03">
+   <stop offset="0" style="stop-opacity:1; stop-color:#009AB2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1A3083"/>
+  </linearGradient>
+  <linearGradient id="id30" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="1991.18" x2="4895.2" y2="1991.18">
+  </linearGradient>
+  <linearGradient id="id31" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="3026.93" x2="4895.2" y2="3026.93">
+  </linearGradient>
+  <linearGradient id="id32" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="1638.89" x2="4895.2" y2="1638.89">
+  </linearGradient>
+  <linearGradient id="id33" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="2219.38" x2="4895.2" y2="2219.38">
+  </linearGradient>
+  <linearGradient id="id34" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="1758.83" x2="4895.2" y2="1758.83">
+  </linearGradient>
+  <linearGradient id="id35" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="2106.03" x2="4895.2" y2="2106.03">
+  </linearGradient>
+  <linearGradient id="id36" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="2338.19" x2="4895.2" y2="2338.19">
+  </linearGradient>
+  <linearGradient id="id37" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="1870.48" x2="4895.2" y2="1870.48">
+  </linearGradient>
+  <linearGradient id="id38" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="1529.13" x2="4895.2" y2="1529.13">
+  </linearGradient>
+  <linearGradient id="id39" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="2920.19" x2="4895.2" y2="2920.19">
+  </linearGradient>
+  <linearGradient id="id40" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="2457.19" x2="4895.2" y2="2457.19">
+  </linearGradient>
+  <linearGradient id="id41" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="2802.69" x2="4895.2" y2="2802.69">
+  </linearGradient>
+  <linearGradient id="id42" gradientUnits="userSpaceOnUse" xlink:href="#id29" x1="3124.88" y1="2689.35" x2="4895.2" y2="2689.35">
+  </linearGradient>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1498571128768">
+   <g>
+   </g>
+   <g>
+   </g>
+   <g style="clip-path:url(#id0)">
+    <g id="_2199609217216">
+     <polygon class="fil0" style="mask:url(#id1)" points="3124.97,1503.55 4895.26,1503.55 4895.26,1555.06 3124.97,1555.06 "/>
+     <polygon class="fil1" style="mask:url(#id3)" points="3124.97,1601.2 4895.26,1601.2 4895.26,1676.73 3124.97,1676.73 "/>
+     <polygon class="fil2" style="mask:url(#id5)" points="3124.97,1721.25 4895.26,1721.25 4895.26,1796.77 3124.97,1796.77 "/>
+     <polygon class="fil3" style="mask:url(#id7)" points="3124.97,1832.84 4895.26,1832.84 4895.26,1908.38 3124.97,1908.38 "/>
+     <polygon class="fil4" style="mask:url(#id9)" points="3124.97,1953.44 4895.26,1953.44 4895.26,2028.97 3124.97,2028.97 "/>
+     <polygon class="fil5" style="mask:url(#id11)" points="3124.97,2068.29 4895.26,2068.29 4895.26,2143.81 3124.97,2143.81 "/>
+     <polygon class="fil6" style="mask:url(#id13)" points="3124.97,2181.66 4895.26,2181.66 4895.26,2257.18 3124.97,2257.18 "/>
+     <polygon class="fil7" style="mask:url(#id15)" points="3124.97,2300.55 4895.26,2300.55 4895.26,2376.08 3124.97,2376.08 "/>
+     <polygon class="fil8" style="mask:url(#id17)" points="3124.97,2419.46 4895.26,2419.46 4895.26,2494.99 3124.97,2494.99 "/>
+     <polygon class="fil9" style="mask:url(#id19)" points="3124.97,2531.44 4895.26,2531.44 4895.26,2606.97 3124.97,2606.97 "/>
+     <polygon class="fil10" style="mask:url(#id21)" points="3124.97,2651.72 4895.26,2651.72 4895.26,2727.25 3124.97,2727.25 "/>
+     <polygon class="fil11" style="mask:url(#id23)" points="3124.97,2765.09 4895.26,2765.09 4895.26,2840.61 3124.97,2840.61 "/>
+     <polygon class="fil12" style="mask:url(#id25)" points="3124.97,2882.6 4895.26,2882.6 4895.26,2958.13 3124.97,2958.13 "/>
+     <polygon class="fil13" style="mask:url(#id27)" points="3124.97,2996.4 4895.26,2996.4 4895.26,3057.67 3124.97,3057.67 "/>
+    </g>
+   </g>
+   <polygon class="fil14" points="3122.32,2053.25 3583.08,2053.23 3661.44,1515.55 4046.55,1515.52 3968.19,2053.22 4414.04,2053.22 4494.82,1494.47 4858.54,2277.28 4273.26,3035.07 4351.46,2486.1 3904.62,2484.74 3825.09,3035.07 3440.04,3035.07 3523.1,2486.12 3122.37,2486.14 "/>
+   <polygon class="fil14" points="3122.32,2053.25 3583.08,2053.23 3661.44,1515.55 4046.55,1515.52 3968.19,2053.22 4414.04,2053.22 4494.82,1494.47 4858.54,2277.28 4273.26,3035.07 4351.46,2486.1 3904.62,2484.74 3825.09,3035.07 3440.04,3035.07 3523.1,2486.12 3122.37,2486.14 "/>
+   <g id="_2199609194080">
+    <g transform="matrix(0.852809 0 0 1 -1941.64 -169.016)">
+     <text x="2500" y="2250"  class="fil15 fnt0">M</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 -1204.16 -178.667)">
+     <text x="2500" y="2250"  class="fil15 fnt0">e</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 -794.473 -169.016)">
+     <text x="2500" y="2250"  class="fil15 fnt0">di</text>
+    </g>
+   </g>
+   <g id="_2199609192320">
+    <g transform="matrix(0.852809 0 0 1 -113.081 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt0">c</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 259.569 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt0">i</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 433.346 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt0">p</text>
+    </g>
+   </g>
+   <g id="_2199609192448">
+    <g transform="matrix(0.924161 0 -0.133732 0.991018 -162.526 810.487)">
+     <text x="2500" y="2250"  class="fil15 fnt1">t</text>
+    </g>
+   </g>
+   <g id="_2199609190720">
+    <g transform="matrix(0.893843 0 0 1 -2045.73 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt2">H</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -1400.56 785.16)">
+     <text x="2500" y="2250"  class="fil15 fnt2">e</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -988.414 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt2">a</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -508.128 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt2">l h</text>
+    </g>
+   </g>
+   <g id="_2199609187424">
+    <g transform="matrix(0.852809 0 0 1 -1950.52 -169.016)">
+     <text x="2500" y="2250"  class="fil15 fnt2">M</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 -1213.03 -178.667)">
+     <text x="2500" y="2250"  class="fil15 fnt2">e</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 -803.348 -169.016)">
+     <text x="2500" y="2250"  class="fil15 fnt2">di</text>
+    </g>
+   </g>
+   <g id="_2199609185120">
+    <g transform="matrix(0.852809 0 0 1 -121.957 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt2">c</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 250.694 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt2">i</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 424.471 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt2">p</text>
+    </g>
+   </g>
+   <g id="_2199609184544">
+    <g transform="matrix(0.852809 0 0 1 -1937.21 -169.016)">
+     <text x="2500" y="2250"  class="fil15 fnt2">M</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 -1199.72 -178.667)">
+     <text x="2500" y="2250"  class="fil15 fnt2">e</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 -790.035 -169.016)">
+     <text x="2500" y="2250"  class="fil15 fnt2">di</text>
+    </g>
+   </g>
+   <g id="_2199609183264">
+    <g transform="matrix(0.852809 0 0 1 -108.644 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt2">c</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 264.007 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt2">i</text>
+    </g>
+    <g transform="matrix(0.852809 0 0 1 437.783 -169.016)">
+     <text x="2500" y="2250"  class="fil16 fnt2">p</text>
+    </g>
+   </g>
+   <g id="_2199609182240">
+    <g transform="matrix(0.924161 0 -0.133732 0.991018 -171.401 810.487)">
+     <text x="2500" y="2250"  class="fil15 fnt3">t</text>
+    </g>
+   </g>
+   <g id="_2199609180320">
+    <g transform="matrix(0.893843 0 0 1 -2054.61 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt4">H</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -1409.44 785.16)">
+     <text x="2500" y="2250"  class="fil15 fnt4">e</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -988.666 785.16)">
+     <text x="2500" y="2250"  class="fil15 fnt4">a</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -517.005 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt4">l h</text>
+    </g>
+   </g>
+   <g id="_2199609179520">
+    <g transform="matrix(0.924161 0 -0.133732 0.991018 -153.649 810.487)">
+     <text x="2500" y="2250"  class="fil15 fnt5">t</text>
+    </g>
+   </g>
+   <g id="_2199609177056">
+    <g transform="matrix(0.893843 0 0 1 -2050.17 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt6">H</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -1405 785.16)">
+     <text x="2500" y="2250"  class="fil15 fnt6">e</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -984.227 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt6">a</text>
+    </g>
+    <g transform="matrix(0.893843 0 0 1 -512.565 794.811)">
+     <text x="2500" y="2250"  class="fil15 fnt6">l h</text>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
